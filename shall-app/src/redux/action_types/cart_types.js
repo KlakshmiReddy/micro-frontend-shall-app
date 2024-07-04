@@ -1,0 +1,6 @@
+const CartTypes = {
+  PRODUCT_ADD_REQUEST: "PRODUCT_ADD_REQUEST",
+  DELETE_CART_PRODUCT: "DELETE_CART_PRODUCT",
+};
+
+export { CartTypes };
